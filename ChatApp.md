@@ -1,5 +1,8 @@
 # **Chat App Example**
 
+from  https://github.com/microsoft/Llama-2-Onnx/tree/main/ChatApp 
+
+
 This is a more complete example of how to use the Llama 2 models with ONNX. This is a python program based on the popular Gradio package for making web interfaces for machine learning demonstrations.
 
 Some experience in setting up Python environments is useful, for example we would recommend running this example with a conda environment.
@@ -29,7 +32,7 @@ When this address is opened in a browser, you should see a page like this:
 ![ChatApp](./assets/ChatAppExample.png)
 
 ## **Using The Chat App**
-You first must pick the model you want to use, there is a drop down list showing the options. You should ensure that the model you choose is downloaded using the git submodule commands in the [README.md](../README.md) file, otherwise attempting to load it will return an error.
+You first must pick the model you want to use, there is a drop down list showing the options. You should ensure that the model you choose is downloaded using the git submodule commands in the [README.md](https://github.com/microsoft/Llama-2-Onnx/blob/main/README.md) file, otherwise attempting to load it will return an error.
 
 You can then select some parameters using the sliders. You should refer to Meta's guidance [here.](https://github.com/facebookresearch/llama/). The defaults are appropriate to get started.
 
