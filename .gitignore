@@ -2,3 +2,4 @@
 *.log
 *.tmp
 *.env
+./oai_azure/01_prep_data.ipynb
